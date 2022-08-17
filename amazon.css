@@ -1,0 +1,115 @@
+
+#amazon{
+    width:300px;
+    height:33px;
+    font-size:15px;
+    background: linear-gradient(#f3cd6f, #F0C14D);
+    border: 0.5px solid #474646;
+    border-radius:3px;
+    margin-top: 10px;
+  }
+  
+  .box {
+      font-size: 13px;
+      line-height: 19px;
+      color: rgb(5, 0, 0);
+      font-family: Arial,sans-serif;
+      padding: 300px;
+        width: 300px;
+        border: 1px solid rgb(142, 143, 142);
+        padding: 50px;
+        margin-top: 250px;
+        margin-left: auto;
+        margin-right: auto;
+     
+  }
+  
+    .border{
+    position: absolute;
+    margin: 0 auto;
+    border-color: #100f0f;
+    border: 20px solid #0d0d0d;
+    border-radius: 3px;
+    width: 300px;
+    padding-left: 40px;
+  }
+  
+  input{
+    border-left-color: #DDDDDD;
+    border-right-color: #DDDDDD;
+    border-radius: 3px;
+    border-width: 0.2px;
+    height: 25px;
+    width: 300px;
+    margin-bottom: 15px;
+  
+  }
+  
+  #SignInText{
+    font-family: Arial, sans-serif;
+    font-size: 26.5px;
+  }
+  
+  h2 {
+     color: rgb(108, 107, 107);
+     font-weight: normal;
+     font-size: 11.5px;
+     width: 315px;
+     text-align: center;
+     border-bottom: 2px solid rgba(7, 0, 0, 0.1);
+     line-height: 0.4em;
+     margin: 10px 0 20px;
+     margin-bottom: 5px;
+  }
+  
+  h2 span {
+    background:rgb(251, 250, 250);
+      padding:0 10px;
+  }
+  
+  #create-account{
+    margin-top: 30px;
+    width:300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #new-account{
+    background: linear-gradient(#d7d7d8, #dadbdd);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width:300px;
+    height:33px;
+    font-size:14px;
+    border: 0.5px solid #8f8e8e;
+    border-radius:3px;
+  }
+  
+  #footer{
+    border: 0 auto;
+     height: 0 auto;
+     border-top: 1px solid rgb(83, 82, 82);
+     margin-top: 15px;
+     max-width: 100%;
+  }
+  
+  a:link{
+    font-size: 13px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #2f97f3
+  }
+
+   .links{
+    font-size: 10px;
+    text-align: center;
+    padding-left: 15px;
+  }
+  
+  #password{
+    margin-left: 125px;
+  }
+  #special{
+    font-size: 10px;
+  }
+  
